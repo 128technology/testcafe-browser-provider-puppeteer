@@ -6,7 +6,7 @@ export default {
 
     screenSizes: {},
 
-    openedPages: {}
+    openedPages: {},
 
     // Required - must be implemented
     // Browser control
